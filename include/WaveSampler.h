@@ -21,7 +21,7 @@
 
 #include "CancellableTask.h"
 #include "SamplingProperties.h"
-#include "Decider.h"
+#include <Decider.h>
 #include <sigutils/clock.h>
 #include <sigutils/iir.h>
 
