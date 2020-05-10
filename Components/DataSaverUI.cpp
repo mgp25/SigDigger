@@ -18,7 +18,7 @@
 //
 
 #include <QFileDialog>
-#include <SuWidgetsHelpers.h>
+#include <SuWidgets/SuWidgetsHelpers.h>
 #include "DataSaverUI.h"
 #include "ui_DataSaverUI.h"
 
